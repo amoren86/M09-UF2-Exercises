@@ -5,7 +5,7 @@ import cat.institutmarianao.findmaxtemp.threads.MaxTempFinder;
 
 public class FindMaxTemp {
 	private static final int MAX_TEMPERATURES = 3650;
-	private static final int MAX_THREADS = 10;
+	private static final int MAX_THREADS = 365;
 	private static final int INTERVAL = MAX_TEMPERATURES / MAX_THREADS;
 	private static final int REST = MAX_TEMPERATURES % MAX_THREADS;
 
