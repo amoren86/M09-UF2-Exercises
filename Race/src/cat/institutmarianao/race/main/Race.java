@@ -1,4 +1,7 @@
-package cat.institutmarianao.race;
+package cat.institutmarianao.race.main;
+
+import cat.institutmarianao.race.monitor.Score;
+import cat.institutmarianao.race.thread.Runner;
 
 public class Race {
 	public static final int DISTANCE = 1500;

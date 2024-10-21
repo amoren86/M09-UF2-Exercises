@@ -1,4 +1,7 @@
-package cat.institutmarianao.race;
+package cat.institutmarianao.race.thread;
+
+import cat.institutmarianao.race.main.Race;
+import cat.institutmarianao.race.monitor.Score;
 
 public class Runner implements Runnable {
 	private static final int MIN_SPEED = 5;

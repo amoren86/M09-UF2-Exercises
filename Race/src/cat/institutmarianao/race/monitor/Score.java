@@ -1,4 +1,6 @@
-package cat.institutmarianao.race;
+package cat.institutmarianao.race.monitor;
+
+import cat.institutmarianao.race.thread.Runner;
 
 public class Score {
 	private Runner[] runners;
